@@ -6,7 +6,7 @@
 	<p>To execute everything correctly you just need to unzip the Project SIJ on any folder</p>
 	<ul>
 		<li>Clone and download zip project.</li>
-		<li>Extract and open the project folder</li>
+		<li>Extract the 3 parts of the priject on a folder and open the project folder</li>
 		<li>Create the properties file inside the project</li>
 		<li>Execute SonarQube</li>
 	</ul>
