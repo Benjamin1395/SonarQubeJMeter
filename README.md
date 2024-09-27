@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<h1>SonarQube Jmeter Laboratory</h1>
-	<p>Repository that contains all the information to execute correctly the analysis using SonarQube and Jmeter</p>
-	<p>To execute everything correctly you just need to unzip the Project SIJ on any folder</p>
+	<h1>Laboratorio SonarQube Jmeter</h1>
+	<p>Repositorio que contiene toda la data necesaria para poder ejecutar el laboratorio correctamente</p>
+	<p>Para poder ejecutar el programa correctamente , solo es necesario extraer el archivo SIJ en cualquier ubicacion</p>
 	<ul>
-		<li>Clone and download zip project.</li>
-		<li>Extract the 3 parts of the priject on a folder and open the project folder</li>
-		<li>Create the properties file inside the project</li>
-		<li>Execute SonarQube</li>
+		<li>Primero, descargar el archivo</li>
+		<li>Extraer el archivo utilizando una de las tres partes provistas</li>
+		<li>Crear el archivo de propiedades dentro del mismo</li>
+		<li>Finalmente ejecutar SonarQube</li>
 	</ul>
-	<p>Some important links to deploy correctly the laboratory :</p>
+	<p>Algunos links importantes para ejecutar correctamente el laboratorio:</p>
 	<ul>
 		<h1>Downloads :</h1>
 		<p></p>
@@ -36,7 +36,7 @@
 			<img class="img-visual" src="https://user-images.githubusercontent.com/52389293/235278692-94201857-8ce6-40a3-a383-07d36a806d8f.png">
 		</ul>
 		<p></p>
-		<h1>Important Information :</h1>
+		<h1>Informacion importante:</h1>
 		<p></p>
 		<ul>
 			<h2>Octoperf</h2>
