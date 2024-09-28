@@ -16,7 +16,7 @@
 		<p></p>
 		<ul>
 			<h2>SonarQube</h2>
-			<li><a href="https://www.sonarqube.org/donwloads](https://www.sonarsource.com/products/sonarqube/downloads/">https://www.sonarsource.com/products/sonarqube/downloads/</a></li>
+			<li><a href="https://www.sonarsource.com/products/sonarqube/downloads/">https://www.sonarsource.com/products/sonarqube/downloads/</a></li>
 			<p></p>
 			<img class="img-sonarqube" src="https://user-images.githubusercontent.com/52389293/235004196-12049665-61c2-4066-a10d-6cc7a84f18d1.jpg">
 			<br></br>
